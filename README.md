@@ -23,4 +23,4 @@ https://www.figma.com/design/l0ynsiML2d4895HDYfi84H/Bibliomaniac?node-id=6-2&t=l
 ## Diagramme d'Activité
 
 Parcours du diagramme d'activité :
-Lien :  [DA](.....)
+[Lien](diagramme_activite.png)
