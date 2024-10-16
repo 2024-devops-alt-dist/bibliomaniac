@@ -12,6 +12,8 @@ Enfin, veillez à utiliser des ressources libres de droits pour assurer la confo
 ## Lien Figma : 
 https://www.figma.com/design/l0ynsiML2d4895HDYfi84H/Bibliomaniac?node-id=6-2&t=lG6vn3B15c9bdLS3-1
 
+On a fait trois pages différentes : une pour le `Design System`, une pour les `maquettes mobiles` et une pour les `maquettes desktop`.
+
 ## Outils Utilisés
 
 - **Figma** : Outil utilisé pour la création des wireframes, maquette, prototype, charte graphique, design system.
